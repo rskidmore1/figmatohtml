@@ -73,9 +73,38 @@ h2{
 .small-text{
     font-size: small;
 }
+
+.large-text{
+    font-size: large; 
+}
 .margin-pt5rem{
     margin: 0.5rem;
 }
+.margin-left-pt5rem{
+    margin-left: 0.7rem;
+}
+
 .margin-top-1rem{
     margin-top: 1rem;
+}
+
+.margin-left-2rem{
+    margin-left: 1.5rem;
+}
+.width-80{
+    width: 70%;
+}
+
+.search-dem{
+    width: 80%;
+    height: 30px;
+}
+
+.rounded{
+    border-radius: 28px;
+}
+
+
+.increment-button-col{
+    width: 30%; 
 }
